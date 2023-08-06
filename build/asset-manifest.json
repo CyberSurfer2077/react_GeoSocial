@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_GeoSocial/static/css/main.15f4e3be.css",
+    "main.js": "/react_GeoSocial/static/js/main.f1cb80c5.js",
+    "index.html": "/react_GeoSocial/index.html",
+    "main.15f4e3be.css.map": "/react_GeoSocial/static/css/main.15f4e3be.css.map",
+    "main.f1cb80c5.js.map": "/react_GeoSocial/static/js/main.f1cb80c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15f4e3be.css",
+    "static/js/main.f1cb80c5.js"
+  ]
+}
